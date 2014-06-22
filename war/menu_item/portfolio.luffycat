@@ -1,6 +1,22 @@
 <header class='entry-header'> 
 	<div class='entry-meta'> 
 		<span class='posted-on'> 
+		<time class='entry-date published' datetime='20140623'> 
+		<a href='#' rel='bookmark'>20140623</a> 
+		</time><timed class='updated' datetime='20140623'>20140623</timed></span> 
+	</div> 
+</header> 
+<article class='post type-post status-publish format-standard has-post-thumbnail hentry category-standard tag-featured-image tag-no-format tag-standard-2'> 
+	<figure class='post-thumb'>	 
+		<img width='1200' height='675' src='./images/porfolio/20140623.jpg' class='attachment-post-thumbnail wp-post-image' alt='empire-state-building'> 
+		<div class='entry-content' style='color:#ffffff'> 
+			<p>我只想现在认真过的精彩，无所谓好与坏。</p> 
+		</div> 
+	</figure> 
+</article> 
+<header class='entry-header'> 
+	<div class='entry-meta'> 
+		<span class='posted-on'> 
 		<time class='entry-date published' datetime='20140605'> 
 		<a href='#' rel='bookmark'>20140605</a> 
 		</time><timed class='updated' datetime='20140605'>20140605</timed></span> 
@@ -59,22 +75,6 @@
 		<img width='1200' height='675' src='./images/porfolio/20140526.jpg' class='attachment-post-thumbnail wp-post-image' alt='empire-state-building'> 
 		<div class='entry-content' style='color:#ffffff'> 
 			<p>做你自己，因为别人都有人做了。</p> 
-		</div> 
-	</figure> 
-</article> 
-<header class='entry-header'> 
-	<div class='entry-meta'> 
-		<span class='posted-on'> 
-		<time class='entry-date published' datetime='20140522'> 
-		<a href='#' rel='bookmark'>20140522</a> 
-		</time><timed class='updated' datetime='20140522'>20140522</timed></span> 
-	</div> 
-</header> 
-<article class='post type-post status-publish format-standard has-post-thumbnail hentry category-standard tag-featured-image tag-no-format tag-standard-2'> 
-	<figure class='post-thumb'>	 
-		<img width='1200' height='675' src='./images/porfolio/20140522.jpg' class='attachment-post-thumbnail wp-post-image' alt='empire-state-building'> 
-		<div class='entry-content' style='color:#ffffff'> 
-			<p>这是一把普通的玩具枪，却记载着一代人的童年时光。仿佛是昨天的青葱岁月，然而我们就已经老了。</p> 
 		</div> 
 	</figure> 
 </article> 
