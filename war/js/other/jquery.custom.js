@@ -75,9 +75,11 @@ jQuery(document).ready(function($) {
 //	var width_portfolio_masonry;
 	$(".mobile-nav-btn").click(function() {
 		if ($('body').hasClass('nav-expand')) {
+			$('#img1').show();
 			$('body').removeClass("nav-expand");
 			$('.main-navigation').removeClass("nav-expand");
 		} else {
+			$('#img1').hide();
 //			width_portfolio_masonry = $('.portfolio-masonry').css('width');
 			$('body').addClass("nav-expand");
 			$('.main-navigation').addClass("nav-expand");
